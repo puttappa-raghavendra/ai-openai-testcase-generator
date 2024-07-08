@@ -1,0 +1,11 @@
+pytest
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+python-dotenv
+pypdf
+sentence_transformers
+langchainhub
